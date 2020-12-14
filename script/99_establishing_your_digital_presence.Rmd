@@ -1,0 +1,35 @@
+---
+title: "Establishing Your Digital Presence"
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview
+
+
+Video
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/IvI4VcAZPI" frameborder="0" allowfullscreen></iframe>
+
+</center>
+&nbsp;&nbsp;
+
+You can download the slides in .odp format by clicking [here](../slides/digital_presence.odp) and in .pdf format by clicking on the image below. 
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to Digital Presence slides](../images/digital_presence.png){width=75%}](../slides/99_establishing_your_digital_presence.pdf)
+
+</center>
+
+&nbsp;&nbsp;
