@@ -19,15 +19,27 @@ Establishing a digital presence is important as it allows you to have some contr
 
 In this workshop we are going to focus on building your own website to allow others to find out about your academic background, research interests etc. We will do this using [WordPress](https://wordpress.com/). WordPress provides you with the ability to build a website relatively easily and to have it up and running for free!
 
+In this first video, I'll provide a brief overview about why you might want to take control of your digital identity.
+
 &nbsp;&nbsp;
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/" frameborder="0" data-external="1" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/Fgku863d6qY" frameborder="0" data-external="1" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
+
+In this second video, I'll introduce you to [WordPress](https://wordpress.com/). 
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/zHAmyIrf8-U" frameborder="0" data-external="1" allowfullscreen></iframe>
+
+</center>
 
 <center>
 
