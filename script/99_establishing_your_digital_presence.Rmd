@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Overview
 
-Establishing a digital presence is important as it allows you to have some control over how you are presented when others (such as potential employers and collaborators) search for you. Making good use of social media (such as Twitter) allows you to be aware of important conversations that are occurring in your field, and to discover what other people are discussing. 
+Establishing a digital presence is important as it allows you to have some control over how you are presented when others (such as potential employers and collaborators) search for you. Making good use of social media (such as Twitter - until it goes bust! - and Mastadon) allows you to be aware of important conversations that are occurring in your field, and to discover what other people are discussing. 
 
 In this workshop we are going to focus on building your own website to allow others to find out about your academic background, research interests etc. We will do this using [WordPress](https://wordpress.com/). WordPress provides you with the ability to build a website relatively easily and to have it up and running for free!
 
@@ -51,7 +51,7 @@ In this second video, I'll introduce you to [WordPress](https://wordpress.com/).
 
 ## Your Challenge
 
-In our Zoom class, I'd like you to build your own website to present your professional profile. You could write a little about yourself in terms of research background and interest. If you have a cv handy, you could re-create that in your website or link to a .pdf version of it. 
+In our in-person class, I'd like you to build your own website to present your professional profile. You could write a little about yourself in terms of research background and interest. If you have a cv handy, you could re-create that in your website or link to a .pdf version of it. 
 
 ## Improve this Workshop
 
